@@ -2,6 +2,7 @@
 This is a simple webpage that showcases the top 10 fastest cars in the world in 2023. It provides information about each car, including its picture, name, and top speed. The webpage is built using HTML and CSS.
 
 ## Preview
+![github image](https://raw.githubusercontent.com/haaaarsh4/PRIV/main/WhatsApp%20Image%202023-05-13%20at%2010.47.13.jpg?token=GHSAT0AAAAAAB5U42EWWPIWF3Y7YTTICQ36ZC7WFDQ)
 
 ## Features
 Display of the top 10 fastest cars with their respective details.
